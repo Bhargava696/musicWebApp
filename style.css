@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+    font-family: 'Staatliches', cursive;
+    color: white;
+}
+
+h1{
+    font-size: 70px;
+}
+
+span{
+    background-color: brown;
+    font-size: 20px;
+}
+
+.buun{
+    font-size: 40px;
+}
